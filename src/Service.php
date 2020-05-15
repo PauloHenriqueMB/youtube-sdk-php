@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author Bruno César <bruno@agenciaskills.com.br>
+ * @license https://github.com/bruceskills/youtube-sdk-php/blob/master/LICENSE (MIT License)
+ */
+
 namespace Youtube;
 
 use YouTube\YouTubeDownloader;
